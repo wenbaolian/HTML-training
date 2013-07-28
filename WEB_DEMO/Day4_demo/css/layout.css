@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+}
+
+.clear {
+    clear: both;
+}
+
+#wrapper {
+    width: 960px;
+    background: #ddd;
+    margin: auto;
+}
+
+#header {
+    height: 100px;
+    background: #369;
+}
+
+#content {
+
+}
+
+#left {
+    width: 700px;
+    height: 500px;
+    background: #ccf;
+    /*float: left;*/
+}
+
+#right {
+    width: 260px;
+    background: #ffc;
+    /*float: left;*/
+}
+
+#left, #right {
+    float: left;
+}
+
+#footer {
+    height: 300px;
+    background: #333;
+}

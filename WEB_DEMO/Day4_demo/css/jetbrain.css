@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+}
+#header{
+    width: 100%;
+    height: 600px;
+    background: gainsboro;
+}
+
+#product{
+    height: 600px;
+    background: honeydew;
+
+}
+
+#news{
+    height: 600px;
+    background:#f2f1f2 ;
+}
+#category{
+    height: 600px;
+    background: #FFFFCC;
+}
+#achievement {
+    height: 589px;
+    padding: 21px 0 14px;
+    background: url("../image/achievement_bg.jpg");
+}
+
+#footer {
+    height: 344px;
+    padding: 74px 0 28px;
+
+}
